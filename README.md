@@ -1,32 +1,34 @@
-# ☕ Starbucks Sales Analysis Dashboard
+# ☕ Starbucks Beverage Analysis Dashboard
 
-## 📌 Project Overview
-
-This project is an interactive Power BI dashboard built to analyze Starbucks beverage nutrition data. It provides insights into calories, caffeine, sugar, and beverage categories using interactive visualizations.
+An interactive **Power BI dashboard** that analyzes Starbucks beverage nutrition data, providing insights into calories, caffeine, sugar, protein, and beverage categories through interactive visualizations.
 
 ---
 
 ## 📊 Dashboard Preview
 
-> *(Upload your dashboard screenshot in the Images folder and replace the path below if needed.)*
-
 ![Dashboard](Images/dashboard.PNG)
 
 ---
 
-## 🚀 Features
+## 📌 Project Overview
 
-- KPI Cards
+This project explores Starbucks beverage nutrition using Power BI. The dashboard helps users compare beverages based on nutritional values and identify high-calorie, high-caffeine, and high-sugar drinks through interactive charts and filters.
+
+---
+
+## ✨ Key Features
+
+- 📈 KPI Cards
   - Total Beverages
   - Average Calories
   - Average Sugar
   - Average Caffeine
 
-- Interactive Filters
+- 🎛 Interactive Filters
   - Protein Range
-  - Beverage Prep
+  - Beverage Preparation
 
-- Visualizations
+- 📊 Interactive Visualizations
   - Average Calories by Beverage Category
   - Beverage Category Distribution
   - Average Caffeine by Beverage Category
@@ -35,7 +37,15 @@ This project is an interactive Power BI dashboard built to analyze Starbucks bev
 
 ---
 
-## 🛠 Tools Used
+## 📁 Dataset
+
+This project uses one dataset:
+
+- **Starbucks Beverage Nutrition Dataset**
+
+---
+
+## 🛠 Tools & Technologies
 
 - Power BI
 - DAX
@@ -44,12 +54,59 @@ This project is an interactive Power BI dashboard built to analyze Starbucks bev
 
 ---
 
-## 📂 Dataset
+## 📷 Dashboard Highlights
 
-- Starbucks Sales Dataset
+- Clean Starbucks-inspired dashboard design
+- Interactive slicers for dynamic analysis
+- Custom KPI cards
+- Professional color palette
+- Dynamic DAX measures
+
+---
+
+## 📂 Repository Structure
+
+```
+starbucks-beverage-analysis-powerbi
+│
+├── Dashboard
+│   └── Starbucks Beverage Analysis.pbix
+│
+├── Dataset
+│   ├── starbucks.csv
+│
+├── Images
+│   ├── dashboard.PNG
+│   └── (dashboard assets)
+│
+└── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. If prompted, reconnect the CSV dataset.
+4. Explore the dashboard using the interactive filters and visuals.
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Power Query
+- Interactive Dashboard Design
+- Data Visualization
+- Business Intelligence
 
 ---
 
 ## 👩‍💻 Author
 
 **Mitali Khapekar**
+
+If you found this project interesting, feel free to ⭐ star the repository!

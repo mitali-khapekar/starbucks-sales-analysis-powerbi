@@ -64,6 +64,15 @@ This project uses one dataset:
 
 ---
 
+## 💡 Key Insights
+
+- Brewed Coffee has the highest average caffeine content.
+- Signature Espresso Drinks and Tazo® Tea Drinks make up a large share of the beverage categories.
+- Beverage preparation impacts nutritional values such as calories and sugar.
+- Interactive filters allow users to compare beverages across different nutritional metrics.
+
+---
+
 ## 📂 Repository Structure
 
 ```

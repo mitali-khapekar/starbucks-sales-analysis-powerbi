@@ -10,7 +10,7 @@ This project is an interactive Power BI dashboard built to analyze Starbucks bev
 
 > *(Upload your dashboard screenshot in the Images folder and replace the path below if needed.)*
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard.PNG)
 
 ---
 
